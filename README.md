@@ -37,6 +37,7 @@
         <li><strong>Programming Languages:</strong> Python (Pandas, NumPy, Seaborn, Matplotlib, BeautifulSoup, Selenium), SQL, C++</li>
         <li><strong>Database:</strong> SQL Server, Oracle </li>
         <li><strong>Machine Learning:</strong> Predictive Analytics, Scikit-learn, TensorFlow</li>
+        <li><strong>Cloud:</strong> Azure DataFactory, Azure AutoML, Azure blob storge</li>
         <li><strong>Other:</strong> Data Modeling, Data Cleaning, Analytical Thinking, Problem-Solving</li>
     </ul>
 
